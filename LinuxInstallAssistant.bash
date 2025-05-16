@@ -68,6 +68,7 @@ function installers(){
 		browser)
 			browserBool=1
 			browsers
+   			;;
 		back)
 			installBool=0
 			;;
