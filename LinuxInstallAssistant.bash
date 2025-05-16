@@ -92,6 +92,7 @@ function browsers(){
 				curl -fsS https://dl.brave.com/install.sh | sh
 				#curl link taken from their direct site, "brave.com/linux"
 				;;
+    		esac
 	done
 }
 
