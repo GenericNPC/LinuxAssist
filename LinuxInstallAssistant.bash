@@ -88,7 +88,7 @@ function browsers(){
 		echo
 		case $browserVar in
 			brave)
-				apt-get intall curl
+				sudo apt-get install curl
 				curl -fsS https://dl.brave.com/install.sh | sh
 				#curl link taken from their direct site, "brave.com/linux"
 				;;
